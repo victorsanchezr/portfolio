@@ -1,0 +1,15 @@
+span{
+    background-image: url("C:\\Users\\alumno\\Documents\\portfolio\\src\\assets\\mac-dark-5120-x-2880-6kdtbj49exajussf.webp");
+    
+ 
+    background-repeat:round;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: 'Steelfish Rg', 'helvetica neue', 
+                    helvetica, arial, sans-serif;
+
+}
+
